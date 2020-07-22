@@ -1,0 +1,23 @@
+{
+  "name": "read-instagram-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalleb/read-instagram-comments.git"
+  },
+  "author": "khalleb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalleb/read-instagram-comments/issues"
+  },
+  "homepage": "https://github.com/khalleb/read-instagram-comments#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.2.1"
+  }
+}
